@@ -6,8 +6,23 @@
  
 <br><br>
 Orchestrix Batching Plant is a real-world industrial automation system powered by the Orchestrix Framework, designed to control multiple batching lines with high-speed, low-latency, middleware-free orchestration. It integrates PLCs, load cells, and a web-based HMI to provide real-time batching, monitoring, and analytics. Deployed in production for over 2 years, it has reduced staffing requirements, lowered maintenance costs by 30%+, and enabled predictive maintenance and operational insights. All system architecture, framework, PLC integration, and on-site commissioning were designed and implemented by the author.<br>
+
+## 🛠 Development Notes
+- Before Orchestrix, implementing a full batching plant system typically required **~2 weeks**.  <br>
+- Using the Orchestrix framework, the same system can be implemented in **~1 week**, by reusing orchestration logic, workflow management, and integration code.  <br>
+- Framework-enabled development reduces repeated boilerplate, allowing focus on project-specific behavior.<br>
+
+
 #### 🎥**Watch a video of the commissioning and on-site trial** of the Batching Plant system
 ![  Batching Plant system video](https://github.com/sinfu98android/Orchestrix_BatchingPlant/blob/79f43c33b88d44096f15782fb4bdf8cbc0b957aa/Youtube%20Cover%20%5BJPG%5D)(https://youtu.be/asrHC0f4MmY?si=lkpU2SrsDjZ1knN6) <br><br>
+
+## 📦 Shipping & Deployment
+
+- Successfully shipped and deployed in a real industrial production environment<br>
+- In continuous operation for **2+ years** with high reliability<br>
+- Fully commissioned on-site, including PLC integration, calibration, and operator validation<br>
+- Supports remote updates, monitoring, and troubleshooting without disrupting <br>
+
 
 ### 🏗 System Architecture
 
